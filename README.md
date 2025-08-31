@@ -3,9 +3,7 @@ Cloud Security Automation in AWS: From broken policies to resilient guardrails.
 
 # Cloud Security Automation with AWS – Guardrails & Autoremediation
 
-This project is a consolidated showcase of my learning journey through the [Securosis Security Lab a Week (S.L.A.W.)](https://slaw.securosis.com/) series.  
-
-Instead of step-by-step instructions, this repository highlights the **objectives, goals, and final outcomes** of building automated cloud security guardrails in AWS.
+This repository highlights the **objectives, goals, and final outcomes** of building automated cloud security guardrails in AWS.
 
 ---
 
